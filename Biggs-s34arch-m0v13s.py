@@ -6,7 +6,7 @@ print("|      Biggs-s34arch-m0v13s        |")
 print("+==================================+")
 print("|       Coded By: SrBiggs          |")
 print("|       Contact: @SrBiggs          |")
-print("|       Versão: 1.0                |")
+print("|       Versao: 1.0                |")
 print("+==================================+\n")
 
 def requesicao(titulo):
